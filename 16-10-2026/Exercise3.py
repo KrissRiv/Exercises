@@ -1,0 +1,10 @@
+number_1 = int(input("Ingrese un numero: "))
+number_2 = int(input("Ingrese otro numero: "))
+
+print(f"El resultado de la suma es: {number_1 + number_2}")
+print(f"El resultado de la resta es: {number_1 - number_2}")
+print(f"El resultado de la multiplicacion es: {number_1 * number_2}")
+print(f"El resultado de la division es: {number_1 / number_2}")
+print(f"El resultado de la division entera es: {number_1 // number_2}")
+print(f"El resultado de la potencia es: {number_1 ** number_2}")
+print(f"El resultado del modulo es: {number_1 % number_2}")
